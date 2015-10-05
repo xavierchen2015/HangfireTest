@@ -34,3 +34,42 @@ c:\users\xavier_chen\documents\visual studio 2015\Projects\HangfireTest_1\Hangfi
 c:\users\xavier_chen\documents\visual studio 2015\Projects\HangfireTest_1\HangfireTest_1\obj\Debug\HangfireTest_1.csprojResolveAssemblyReference.cache
 c:\users\xavier_chen\documents\visual studio 2015\Projects\HangfireTest_1\HangfireTest_1\obj\Debug\HangfireTest_1.dll
 c:\users\xavier_chen\documents\visual studio 2015\Projects\HangfireTest_1\HangfireTest_1\obj\Debug\HangfireTest_1.pdb
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\obj\Debug\HangfireTest_1.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\obj\Debug\HangfireTest_1.pdb
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\csc.exe
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\System.Collections.Immutable.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\vbc.exe
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\VBCSCompiler.exe
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\roslyn\VBCSCompiler.exe.config
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\HangfireTest_1.dll.config
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\HangfireTest_1.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\HangfireTest_1.pdb
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Hangfire.Core.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Hangfire.MemoryStorage.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Microsoft.Owin.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Newtonsoft.Json.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Owin.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\System.Net.Http.Formatting.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\System.Web.Http.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\System.Web.Http.WebHost.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Hangfire.Core.xml
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Microsoft.Owin.xml
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\Newtonsoft.Json.xml
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\System.Net.Http.Formatting.xml
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\System.Web.Http.xml
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\System.Web.Http.WebHost.xml
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\zh-Hant\System.Web.Http.resources.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\project\MyProject\HangfireTest\src\HangfireTest_1\obj\Debug\HangfireTest_1.csprojResolveAssemblyReference.cache
