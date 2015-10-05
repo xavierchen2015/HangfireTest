@@ -1,6 +1,9 @@
 src/HangfireTest_1/.vs/
 src/HangfireTest_1/bin/
 src/HangfireTest_1/obj/
+src/OwinTest/.vs/
+src/OwinTest/bin/
+src/OwinTest/obj/
 src/packages/
 src/.vs/config/applicationhost.config
 src/HangfireTest_1/obj/Debug/HangfireTest_1.pdb
